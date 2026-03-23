@@ -1,5 +1,5 @@
 {
-  "Version": "1.2",
+  "Version": "1.3",
   "ReleaseNotes": "Nueva Atualizacion Disponível",
   "UrlUpdate": "https://raw.githubusercontent.com/martincho247/config.json/refs/heads/main/config.json",
   "Sms": "",
@@ -7,7 +7,7 @@
   "LogoLink": "https://e7.pngegg.mbnail.png",
   "Servers": [
   {
-   "Name": "Probando 🇦🇷 ws AR",
+   "Name": "Enviar 🇦🇷 ws AR",
    "FLAG": "br",
    "ServerIP": "recargas.personal.com.ar",
    "ServerPort": "80",
