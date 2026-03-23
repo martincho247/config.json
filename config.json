@@ -9,10 +9,10 @@
   {
    "Name": "🔵PERSONAL 1🇦🇷 flare",
    "FLAG": "br",
-   "ServerIP": "recargas.personal.com.ar",
+   "ServerIP": "sat24.com",
    "ServerPort": "80",
    "SSLPort": "",
-   "ProxyIP": "recargas.personal.com.ar",
+   "ProxyIP": "",
    "ProxyPort": "80",
    "ServerUser": "",
    "ServerPass": "",
