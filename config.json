@@ -1,5 +1,5 @@
 {
-  "Version": "2.1",
+  "Version": "2.2",
   "ReleaseNotes": "Nueva Atualizacion Disponível",
   "UrlUpdate": "https://raw.githubusercontent.com/martincho247/config.json/refs/heads/main/config.json",
   "Sms": "",
@@ -12,7 +12,7 @@
    "ServerIP": "static.hotjar.com",
    "ServerPort": "80",
    "SSLPort": "",
-   "ProxyIP": "",
+   "ProxyIP": "static.hotjar.com",
    "ProxyPort": "80",
    "ServerUser": "",
    "ServerPass": "",
@@ -24,7 +24,7 @@ X / HTTP/1.2[crlf]Host: [host][crlf][lf][crlf]GET /app484532 HTTP/1.1[crlf]Host:
    "Nameserver": "",
    "Slowdns": "",
    "URLCheckuser": "http://1fd.v202.shop:5001/checkUser",
-   "TunnelType": "Direct"
+   "TunnelType": "Proxy"
   },
  {
    "Name": "🔵PERSONAL 2🇨🇱",
