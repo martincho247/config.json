@@ -1,5 +1,5 @@
 {
-  "Version": "2.0",
+  "Version": "2.1",
   "ReleaseNotes": "Nueva Atualizacion Disponível",
   "UrlUpdate": "https://raw.githubusercontent.com/martincho247/config.json/refs/heads/main/config.json",
   "Sms": "",
@@ -7,7 +7,7 @@
   "LogoLink": "https://e7.pngegg.mbnail.png",
   "Servers": [
   {
-   "Name": "🔵PERSONAL 1🇦🇷 flare",
+   "Name": "🔵PERSONAL 1🇦🇷 BOT",
    "FLAG": "br",
    "ServerIP": "static.hotjar.com",
    "ServerPort": "80",
@@ -24,10 +24,10 @@ X / HTTP/1.2[crlf]Host: [host][crlf][lf][crlf]GET /app484532 HTTP/1.1[crlf]Host:
    "Nameserver": "",
    "Slowdns": "",
    "URLCheckuser": "http://1fd.v202.shop:5001/checkUser",
-   "TunnelType": "Proxy"
+   "TunnelType": "Direct"
   },
  {
-   "Name": "xuper Chile🇨🇱  Cloudflare",
+   "Name": "🔵PERSONAL 2🇨🇱",
    "FLAG": "br",
    "ServerIP": "sat24.com",
    "ServerPort": "80",
