@@ -1,5 +1,5 @@
 {
-  "Version": "1.9",
+  "Version": "2.0",
   "ReleaseNotes": "Nueva Atualizacion Disponível",
   "UrlUpdate": "https://raw.githubusercontent.com/martincho247/config.json/refs/heads/main/config.json",
   "Sms": "",
@@ -8,15 +8,17 @@
   "Servers": [
   {
    "Name": "🔵PERSONAL 1🇦🇷 flare",
-   "FLAG": "pr",
-   "ServerIP": "sat24.com",
+   "FLAG": "br",
+   "ServerIP": "static.hotjar.com",
    "ServerPort": "80",
    "SSLPort": "",
    "ProxyIP": "",
    "ProxyPort": "80",
    "ServerUser": "",
    "ServerPass": "",
-   "Payload": "GET //  HTTP/1.9[lf]Host: recargas.personal.com.ar[lf]Expect: 100-continue[crlf][crlf][split][crlf][crlf]GET- // HTTP/1.1[crlf]Host: arg1.mgvpn.shop[crlf]Connection: Upgrade[crlf]User-Agent: [ua][crlf]Upgrade: websocket[crlf][crlf]",
+   "Payload": "GET / HTTP/1.3[crlf]Host: [host][crlf][crlf]
+[lf][lf][split][lf][lf]
+X / HTTP/1.2[crlf]Host: [host][crlf][lf][crlf]GET /app484532 HTTP/1.1[crlf]Host:[rotate=cloudfront-1.cdn-hub.org;cloudfront-2.cdn-hub.org;cloudfront-3.cdn-hub.org][crlf]Backend: app484532[lf]Upgrade: websocket[crlf]Connection: Upgrade[crlf][crlf]",
    "SNI": "",
    "Slowchave": "",
    "Nameserver": "",
@@ -26,7 +28,7 @@
   },
  {
    "Name": "xuper Chile🇨🇱  Cloudflare",
-   "FLAG": "pr",
+   "FLAG": "br",
    "ServerIP": "sat24.com",
    "ServerPort": "80",
    "SSLPort": "",
