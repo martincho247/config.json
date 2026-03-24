@@ -1,5 +1,5 @@
 {
-  "Version": "1.8",
+  "Version": "1.9",
   "ReleaseNotes": "Nueva Atualizacion Disponível",
   "UrlUpdate": "https://raw.githubusercontent.com/martincho247/config.json/refs/heads/main/config.json",
   "Sms": "",
@@ -8,7 +8,7 @@
   "Servers": [
   {
    "Name": "🔵PERSONAL 1🇦🇷 flare",
-   "FLAG": "br",
+   "FLAG": "pr",
    "ServerIP": "sat24.com",
    "ServerPort": "80",
    "SSLPort": "",
@@ -26,7 +26,7 @@
   },
  {
    "Name": "xuper Chile🇨🇱  Cloudflare",
-   "FLAG": "br",
+   "FLAG": "pr",
    "ServerIP": "sat24.com",
    "ServerPort": "80",
    "SSLPort": "",
